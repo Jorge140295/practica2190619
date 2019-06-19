@@ -1,0 +1,7 @@
+.imagenflotante {
+	float: left;
+
+}
+.debajo {
+	clear:both;
+}
